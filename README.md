@@ -45,6 +45,13 @@ This repository contains trained models created by me (Davis King).  They are pr
   
   This model is designed to work well with dlib's HOG face detector and the CNN face detector (the one in mmod_human_face_detector.dat). 
   
+* shape_predictor_28_face_landmarks.dat.bz2
+  
+  This is trained on http://cswww.essex.ac.uk/mv/allfaces/index.html and the LFW dataset. It's suppose to be a free version
+  of the following model. 
+  This one can be used by anyone.
+
+
 * shape_predictor_68_face_landmarks.dat.bz2
  
   This is trained on the ibug 300-W dataset (https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/)
